@@ -21,7 +21,7 @@ let textoNome = "Seu nome completo é " + nomeCompleto;
 console.log(textoNome);
 */
 
-/* Exercicio 3
+/* Exercicio 3a estimativa, a probabilidade de estouro da meta agora é de 100% para 2024, principalmente pela “depreciação cambial, o ritmo forte de crescimento da atividade 
 
 let num = 19;
 let nome = "Filipe";
