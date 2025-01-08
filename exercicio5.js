@@ -25,9 +25,21 @@ meuArray[0] = meuArray[0] * 2;
 console.log(meuArray);
 */
 
-// ex 4
+/* ex 4
 const lista = [];
 lista.push(10, 20, 30);
 
 console.log(lista.length);
 console.log(`O resultado da lista é: ${lista}`);
+*/
+
+const clinica = [];
+
+clinica.push('gato', 'cachorro', 'papagaio');
+console.log(clinica);
+
+clinica.pop();
+clinica.pop();
+clinica.pop();
+
+console.log(clinica);
